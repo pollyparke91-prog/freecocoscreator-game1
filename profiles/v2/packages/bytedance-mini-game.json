@@ -1,0 +1,158 @@
+{
+  "__version__": "1.0.3",
+  "builder": {
+    "common": {
+      "buildPath": "project://build",
+      "outputName": "bytedance-mini-game",
+      "mainBundleCompressionType": "subpackage",
+      "platform": "bytedance-mini-game",
+      "startScene": "9927746e-08ce-46f9-882e-7ab0086c1a6a",
+      "mainBundleIsRemote": false
+    },
+    "options": {
+      "bytedance-mini-game": {
+        "buildOpenDataContextTemplate": "",
+        "appid": "tt38484ef5a74352f402",
+        "orientation": "portrait",
+        "physX": {
+          "use": "project",
+          "notPackPhysXLibs": false,
+          "multiThread": false,
+          "subThreadCount": 1,
+          "epsilon": 0.001
+        },
+        "devToolsLaunchMethod": "lite",
+        "__version__": "1.0.3"
+      }
+    },
+    "taskOptionsMap": {
+      "1743749609545": {
+        "buildOpenDataContextTemplate": "",
+        "appid": "tt38484ef5a74352f402",
+        "orientation": "portrait",
+        "physX": {
+          "use": "project",
+          "notPackPhysXLibs": false,
+          "multiThread": false,
+          "subThreadCount": 1,
+          "epsilon": 0.001
+        },
+        "devToolsLaunchMethod": "lite",
+        "__version__": "1.0.3"
+      },
+      "1745462172899": {
+        "buildOpenDataContextTemplate": "",
+        "appid": "ttcb81bd3c548a8b1902",
+        "orientation": "portrait",
+        "physX": {
+          "use": "project",
+          "notPackPhysXLibs": false,
+          "multiThread": false,
+          "subThreadCount": 1,
+          "epsilon": 0.001
+        },
+        "devToolsLaunchMethod": "lite",
+        "__version__": "1.0.3"
+      },
+      "1747198030256": {
+        "buildOpenDataContextTemplate": "",
+        "appid": "tt38484ef5a74352f402",
+        "orientation": "portrait",
+        "physX": {
+          "use": "project",
+          "notPackPhysXLibs": false,
+          "multiThread": false,
+          "subThreadCount": 1,
+          "epsilon": 0.001
+        },
+        "devToolsLaunchMethod": "lite",
+        "__version__": "1.0.3"
+      },
+      "1747379787915": {
+        "buildOpenDataContextTemplate": "",
+        "appid": "tt38484ef5a74352f402",
+        "orientation": "portrait",
+        "physX": {
+          "use": "project",
+          "notPackPhysXLibs": false,
+          "multiThread": false,
+          "subThreadCount": 1,
+          "epsilon": 0.001
+        },
+        "devToolsLaunchMethod": "lite",
+        "__version__": "1.0.3"
+      },
+      "1747379994624": {
+        "buildOpenDataContextTemplate": "",
+        "appid": "tt38484ef5a74352f402",
+        "orientation": "portrait",
+        "physX": {
+          "use": "project",
+          "notPackPhysXLibs": false,
+          "multiThread": false,
+          "subThreadCount": 1,
+          "epsilon": 0.001
+        },
+        "devToolsLaunchMethod": "lite",
+        "__version__": "1.0.3"
+      },
+      "1747380541984": {
+        "buildOpenDataContextTemplate": "",
+        "appid": "tt38484ef5a74352f401",
+        "orientation": "portrait",
+        "physX": {
+          "use": "project",
+          "notPackPhysXLibs": false,
+          "multiThread": false,
+          "subThreadCount": 1,
+          "epsilon": 0.001
+        },
+        "devToolsLaunchMethod": "lite",
+        "__version__": "1.0.3"
+      },
+      "1748079015079": {
+        "buildOpenDataContextTemplate": "",
+        "appid": "wx58649a9ae87e3f0e",
+        "orientation": "portrait",
+        "physX": {
+          "use": "project",
+          "notPackPhysXLibs": false,
+          "multiThread": false,
+          "subThreadCount": 1,
+          "epsilon": 0.001
+        },
+        "devToolsLaunchMethod": "lite",
+        "__version__": "1.0.3"
+      },
+      "1748103546484": {
+        "buildOpenDataContextTemplate": "",
+        "appid": "tt38484ef5a74352f402",
+        "orientation": "portrait",
+        "physX": {
+          "use": "project",
+          "notPackPhysXLibs": false,
+          "multiThread": false,
+          "subThreadCount": 1,
+          "epsilon": 0.001
+        },
+        "devToolsLaunchMethod": "lite",
+        "__version__": "1.0.3"
+      },
+      "1748248408857": {
+        "buildOpenDataContextTemplate": "",
+        "appid": "tt38484ef5a74352f402",
+        "orientation": "portrait",
+        "physX": {
+          "use": "project",
+          "notPackPhysXLibs": false,
+          "multiThread": false,
+          "subThreadCount": 1,
+          "epsilon": 0.001
+        },
+        "devToolsLaunchMethod": "lite",
+        "__version__": "1.0.3"
+      }
+    },
+    "__version__": "1.3.9"
+  }
+}
